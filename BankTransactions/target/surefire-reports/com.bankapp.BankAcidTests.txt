@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bankapp.BankAcidTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.101 s <<< FAILURE! - in com.bankapp.BankAcidTests
+testAtomicity  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalArgumentException: Insufficient Funds
+	at com.bankapp.BankAcidTests.testAtomicity(BankAcidTests.java:30)
+
